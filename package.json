@@ -1,0 +1,24 @@
+{
+  "name": "template-express-docker",
+  "version": "1.0.0",
+  "description": "A template with nodejs and docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martuuamengual/template-express-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martuuamengual/template-express-docker/issues"
+  },
+  "homepage": "https://github.com/martuuamengual/template-express-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
